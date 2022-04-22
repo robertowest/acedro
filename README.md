@@ -1,2 +1,2 @@
 # acedro
-Página web para Alberto Cedro
+Página web sobre proyectos y trabajos de arquitectura pertenecientes a Arq. Alberto Cedro
