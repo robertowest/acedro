@@ -23341,6 +23341,7 @@ img + h5 {
 
 .bg-image-1 {
   background-image: url(../images/home-01-1602x850.jpg);
+  /* background-image: url(../images/home-01.jpg); */
 }
 
 .bg-image-2 {
